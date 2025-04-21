@@ -1,4 +1,8 @@
 # Loan Approval Prediction – AI Final Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michaelolson01/ICS-352-AI-Final-Project/blob/main/ICS-352-AI-Final-Project.ipynb)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 This project explores supervised machine learning techniques to predict whether an individual will be approved for a loan, based on key financial and behavioral features.
 ## ✍️ Authors

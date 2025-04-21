@@ -1,18 +1,18 @@
 # Loan Approval Prediction – AI Final Project
 
-This project explores the use of supervised machine learning models to predict whether an individual is likely to be approved for a loan based on key financial indicators.
+This project explores supervised machine learning techniques to predict whether an individual will be approved for a loan, based on key financial and behavioral features.
 
-## 📊 Problem Statement
+## 📊 Problem Overview
 
-The model estimates loan approval outcomes using:
+The task is to estimate loan approval outcomes using:
 - Annual income
 - Number of credit inquiries
-- Average monthly checking account balance
-- Total outstanding debt
+- Average monthly balance in a checking account
+- Outstanding debt
 
-## 🧠 Techniques Used
+## 🧠 Machine Learning Models
 
-The project compares several ensemble learning classifiers:
+We applied and compared the following ensemble classifiers:
 - Random Forest
 - AdaBoost
 - Gradient Boosting
@@ -28,33 +28,38 @@ The project compares several ensemble learning classifiers:
 
 ## ⚙️ Workflow
 
-1. Data cleaning and feature engineering
-2. Exploratory Data Analysis (EDA) and visualizations
-3. Model training using multiple ensemble classifiers
-4. Hyperparameter tuning via `GridSearchCV`
-5. Model evaluation with classification reports and cross-validation
+1. **Data Preprocessing**
+   - Cleaned and transformed financial data
+   - Normalized features and handled missing values
+
+2. **Exploratory Data Analysis**
+   - Visualized distributions, feature correlations, and class balance
+
+3. **Model Training & Evaluation**
+   - Trained multiple ensemble classifiers using `train_test_split`
+   - Performed hyperparameter tuning with `GridSearchCV`
+   - Evaluated using classification reports and cross-validation
 
 ## 📈 Results
 
-Each model was evaluated using:
+Each model was assessed using:
 - Accuracy
-- Precision, Recall, F1-Score
-- Confusion Matrices
+- Precision, Recall, and F1-Score
+- Confusion Matrix
 
-The best-performing model balanced high predictive accuracy with strong generalization across cross-validation folds.
+The models achieved solid performance, with ensemble methods showing strong generalization across the test data.
 
-## 🎓 Context
+## 🎓 Academic Context
 
-This project was completed as the final assignment for a graduate-level Artificial Intelligence course at Regis University. It focuses on applying core ML techniques to real-world structured data.
+This project was completed as the final assignment for the Artificial Intelligence course in the M.S. Software Engineering program at Regis University. It demonstrates practical machine learning skills applied to a realistic financial decision-making problem.
 
-## 🚀 Future Work
+## 🚀 Future Improvements
 
-- Add SHAP or feature importance visualizations
-- Explore fairness metrics and bias analysis
-- Deploy model as a REST API or Streamlit app
+- Incorporate SHAP or feature importance visualizations
+- Deploy as a Streamlit app or API
+- Expand dataset and explore fairness metrics
 
-## 📁 File Structure
+## 📁 Files
 
-- `loan_prediction.ipynb` – Main analysis notebook
-- `README.md` – Project overview and documentation
-
+- `ICS-352-AI-Final-Project.ipynb` – Main analysis notebook
+- `README.md` – Project documentation

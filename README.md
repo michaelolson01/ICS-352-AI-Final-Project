@@ -1,5 +1,5 @@
 # Loan Approval Prediction – AI Final Project
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michaelolson01/ICS-352-AI-Final-Project/blob/main/Final_v3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michaelolson01/ICS-352-AI-Final-Project/blob/main/loan_approval_model.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)

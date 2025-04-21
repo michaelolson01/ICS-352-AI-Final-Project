@@ -1,6 +1,15 @@
 # Loan Approval Prediction – AI Final Project
 
 This project explores supervised machine learning techniques to predict whether an individual will be approved for a loan, based on key financial and behavioral features.
+## ✍️ Authors
+
+
+- Michael Olson – [@michaelolson01](https://github.com/michaelolson01)
+- Bee Xiong - [@Bee-Xiong](https://github.com/Bee-Xiong)
+- Nick Sigwanz - [@NickSigwanz](https://github.com/NickSigwanz)
+- John Quinlan - No known github page.
+
+*Project completed as part of ICS 352 – Artificial Intelligence at Regis University.*
 
 ## 📊 Problem Overview
 

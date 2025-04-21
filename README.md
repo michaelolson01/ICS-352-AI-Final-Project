@@ -9,7 +9,7 @@ This project explores supervised machine learning techniques to predict whether 
 - Nick Sigwanz - [@NickSigwanz](https://github.com/NickSigwanz)
 - John Quinlan - No known github page.
 
-*Project completed as part of ICS 352 – Artificial Intelligence at Regis University.*
+*Project completed as part of ICS 352 – Artificial Intelligence at Metropolitan State University.*
 
 ## 📊 Problem Overview
 
@@ -60,7 +60,7 @@ The models achieved solid performance, with ensemble methods showing strong gene
 
 ## 🎓 Academic Context
 
-This project was completed as the final assignment for the Artificial Intelligence course in the M.S. Software Engineering program at Regis University. It demonstrates practical machine learning skills applied to a realistic financial decision-making problem.
+This project was completed as the final assignment for the Artificial Intelligence course in the M.S. Software Engineering program at Metropolitan State University. It demonstrates practical machine learning skills applied to a realistic financial decision-making problem.
 
 ## 🚀 Future Improvements
 
